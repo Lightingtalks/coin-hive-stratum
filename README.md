@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cazala/coin-hive-stratum)
+
 ## CoinHive Stratum Proxy
 
 <img width="1356" alt="pm2" src="https://user-images.githubusercontent.com/2781777/33243231-c162d55c-d2c0-11e7-9408-c3fb7fb699d0.png">
